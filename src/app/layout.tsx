@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
 	title: 'Social network',
 	description: 'Best social network',
+	icons: '/logo.svg',
 }
 
 export const viewport: Viewport = {
